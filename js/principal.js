@@ -1,5 +1,5 @@
 // principal.js
-const backendURL = "https://web-production-44369.up.railway.app";
+const backendURL = "https://detectorsqli-backend.onrender.com";
 
 async function subirZip() {
   const archivoInput = document.getElementById("archivo");

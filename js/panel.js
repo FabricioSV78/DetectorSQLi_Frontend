@@ -4,7 +4,7 @@ if (!token) {
   window.location.href = "index.html";
 }
 
-const backendURL = "https://web-production-44369.up.railway.app";
+const backendURL = "https://detectorsqli-backend.onrender.com";
 
 window.onload = async () => {
   try {
